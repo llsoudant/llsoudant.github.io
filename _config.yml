@@ -1,6 +1,9 @@
 title: Lindsay Soudant's Professional Profile
 logo: /assets/img/logo.png
-description:    
+description: *   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
